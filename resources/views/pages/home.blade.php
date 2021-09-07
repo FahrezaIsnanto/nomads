@@ -27,11 +27,11 @@ NOMADS
     <section class="section-stats row justify-content-center" id="stats">
       <div class="col-3 col-md-2 stats-detail">
         <h2>25K</h2>
-        <p>Members</p>
+        <p>Orangnya</p>
       </div>
       <div class="col-3 col-md-2 stats-detail">
         <h2>24</h2>
-        <p>Countries</p>
+        <p>Negaranya</p>
       </div>
       <div class="col-3 col-md-2 stats-detail">
         <h2>10K</h2>
